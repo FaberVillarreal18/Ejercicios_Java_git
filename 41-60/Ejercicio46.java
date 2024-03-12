@@ -5,7 +5,7 @@ public class Ejercicio46 {
         Scanner entrada=new Scanner(System.in);
         System.out.println("Ingresa la distancia en millas: ");
         double n=entrada.nextDouble();
-        double op=n*1852;
+        double op=n/1852;
         System.out.println("La distancia expresada en metros equivale a: "+op+"m");
         entrada.close();
     }
