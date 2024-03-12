@@ -13,7 +13,7 @@ public class Ejercicio43 {
             System.out.println("El numero menor es el segundo: "+n2);
         } else {
             if (n1<n2) {
-                System.out.println("El numero manor es el primero: "+n1);
+                System.out.println("El numero menor es el primero: "+n1);
             } else {
                 if (n1==n2) {
                     System.out.println("Ambos numeros son iguales");
